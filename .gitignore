@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 # User personal credentials
-local.settings.json
+local.credentials.json
